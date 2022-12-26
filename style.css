@@ -26,7 +26,7 @@ div.video > .video2 {
   display: block;
   margin-bottom: 20px;
 }
-.footer {
+.pfooter {
   font-size: 26px;
 }
 .firstlist {
@@ -44,4 +44,20 @@ h2.title {
   color: #011342;
   font-size: 30px;
   font-weight: 900;
+}
+.footer {
+  background-image: url(http://demo.lightform.gr/fantasiagames/wp-content/uploads/2021/03/components-bg-endless-winter.jpg);
+}
+div.rulebook {
+  border: navy solid 2px;
+  background-color: white;
+  font-size: 25px;
+  position: absolute;
+  top: 250%;
+  right: 30%;
+  border-radius: 10px;
+  padding: 5px 5px 5px 5px;
+}
+a.file {
+  text-decoration: none;
 }
