@@ -50,7 +50,7 @@ h2.title {
 }
 div.rulebook {
   display: inline-block;
-  width: 20%;
+
   vertical-align: top;
   margin-left: 850px;
   margin-top: 150px;
@@ -60,4 +60,5 @@ div.rulebook {
 a.file {
   text-decoration: none;
   font-size: 15px;
+  text-align: center;
 }
